@@ -1,1 +1,1 @@
-C:\Users\badgo\Desktop\rust-api-example\target\debug\rust-api-example.exe: C:\Users\badgo\Desktop\rust-api-example\src\main.rs
+D:\Batu\Software-Projects\rust-examples\web-server\target\debug\rust-api-example.exe: D:\Batu\Software-Projects\rust-examples\web-server\src\main.rs
